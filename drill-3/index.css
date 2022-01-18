@@ -1,0 +1,20 @@
+header {
+  height: 100px;
+  background-color: #d8d8d8;
+}
+
+.logo {
+  background-color: #5b8fdc;
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+.bigtext {
+  margin-top: 50px;
+  text-align: left;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
