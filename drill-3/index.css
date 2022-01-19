@@ -18,3 +18,32 @@ header {
   margin-right: 50px;
   margin-bottom: 50px;
 }
+
+.section-main {
+  background-color: #5b8fdc;
+  display: inline-block;
+  width: 100vh;
+  height: 150px;
+}
+
+#section-1 {
+  background-color: #5b8fdc;
+  position: relative;
+  top: 10px;
+}
+#section-2 {
+  background-color: #7be0c3;
+  position: relative;
+  top: 10px;
+}
+#section-3 {
+  background-color: #c2e791;
+  position: relative;
+  top: 10px;
+}
+#section-4 {
+  background-color: #f5e752;
+  position: relative;
+  top: 10px;
+}
+
